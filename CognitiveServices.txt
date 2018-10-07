@@ -1,13 +1,14 @@
+CognitiveTextAnalytics
+
+
 Utvärdera enkelt sentiment och ämnen och förstå vad användare vill ha
 5 000 transaktioner per månad.
-Slutpunkt: https://westcentralus.api.cognitive.microsoft.com/text/analytics/v2.0
+Slutpunkt: https://northeurope.api.cognitive.microsoft.com/text/analytics/v2.0
 
-Nyckel 1: 0c200dd9abdd42e682e41e35b752f481
-Nyckel 2: c890baf19c044dc8a92ac3acb449d964
+Nyckel 1: abac51d2e08f4983962df6892309ac54
+
+Nyckel 2: 09c8d93f771849bd9a3d11ff72ea42bd
 
 
-Spåra, identifiera, analysera, organisera och tagga ansikten i foton
-30 000 transaktioner, 20 per minut.
-Slutpunkt: https://westcentralus.api.cognitive.microsoft.com/face/v1.0
-Nyckel 1: decaa288164241e69d85db9793d0c534
-Nyckel 2: d51cf881f83e4bc387482a7d701730d5
+
+
